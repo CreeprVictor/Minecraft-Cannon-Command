@@ -4,3 +4,4 @@ You will also need to type the following
 - /scoreboard objectives add MotionY dummy
 - /scoreboard objectives add MotionZ dummy
 - /scoreboard objectives add BuildingCannonProcess dummy
+- /scoreboard objectives add life dummy
